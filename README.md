@@ -1,10 +1,9 @@
 # Predictability-First-Analysis-of-Time-Series-Forecasting
 _A priority-aware framework for layer-wise material selection (Metal–Dielectric–Semiconductor) with single-pass 3D evaluation._
 
-This repository provides the full implementation of the MOSFET layer-wise material selection framework, including:
-- Material and Properties Selecting Tool (Stage I)
-- AI-assisted Material Selecting Tool (Stage II, Metal & Dielectric)
-- IEEE-style paper with equations, flowcharts, and validation case study (28 nm LP-CMOS)
+This repository provides the full implementation of Predictability-First Analysis of Time-Series Forecasting for Semiconductor Equipment Health Monitoring, including:
+- DATA ANALYSIS OF PREDICTABILITY
+- Machine Learning/Sattatical/Deep Learning models for Time-Series Forecasting
 
 ## Quick Start
 1. Clone the repo:
