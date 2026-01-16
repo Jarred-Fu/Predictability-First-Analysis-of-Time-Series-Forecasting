@@ -4,6 +4,7 @@ _A priority-aware framework for layer-wise material selection (Metal–Dielectri
 This repository provides the full implementation of Predictability-First Analysis of Time-Series Forecasting for Semiconductor Equipment Health Monitoring, including:
 - DATA ANALYSIS OF PREDICTABILITY
 - Machine Learning/Sattatical/Deep Learning models for Time-Series Forecasting
+- Equipment degradation timeseries forecasting dataset
 
 ## Quick Start
 1. Clone the repo:
