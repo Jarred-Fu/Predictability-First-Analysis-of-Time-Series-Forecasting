@@ -1,0 +1,35 @@
+# Python / Environment
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.tmp
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Data outputs
+data/
+outputs/
+results/
+*.csv
+*.xlsx
+
+# Node modules
+node_modules/
